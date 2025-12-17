@@ -1,2 +1,0 @@
-Delete old App.jsx
-
